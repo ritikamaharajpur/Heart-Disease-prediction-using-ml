@@ -1,4 +1,4 @@
-# Heart-Disease-prediction-using-ml
+# Heart-Disease-Prediction-using-ml
 Heart disease is one of the leading causes of mortality worldwide, making early 
 detection crucial for effective treatment and prevention. Traditional diagnostic 
 methods can be time-consuming and may require expensive tests. Machine 
