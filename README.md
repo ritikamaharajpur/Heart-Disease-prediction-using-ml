@@ -19,4 +19,15 @@ complications and promote proactive healthcare management.
 
 <img width="466" height="293" alt="image" src="https://github.com/user-attachments/assets/fe083239-7851-4e12-bf18-27b3c366b2b4" />
 
-https://colab.research.google.com/drive/1Rh1vBumcrbGfLMLTON-DR680WV3uB8Z-#scrollTo=iq6hJ5I90BfW&line=1&uniqifier=1
+Machine Learning algorithms used:
+Logistic Regression (Scikit-learn)
+Naive Bayes (Scikit-learn)
+Support Vector Machine (Linear) (Scikit-learn)
+K-Nearest Neighbours (Scikit-learn)
+Decision Tree (Scikit-learn)
+Random Forest (Scikit-learn)
+XGBoost (Scikit-learn)
+Artificial Neural Network with 1 Hidden layer (Keras)
+Accuracy achieved: 88% (Logistic Regression)
+
+Notebook - https://colab.research.google.com/drive/1Rh1vBumcrbGfLMLTON-DR680WV3uB8Z-#scrollTo=iq6hJ5I90BfW&line=1&uniqifier=1
