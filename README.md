@@ -18,13 +18,5 @@ early warning system, this project aims to reduce the risk of severe heart
 complications and promote proactive healthcare management.
 
 <img width="466" height="293" alt="image" src="https://github.com/user-attachments/assets/fe083239-7851-4e12-bf18-27b3c366b2b4" />
-import numpy as np
-import pandas as pd
-from sklearn.model_selection import train_test_split
-from sklearn.linear_model import LogisticRegression
-from sklearn.metrics import accuracy_score
-import matplotlib.pyplot as plt
-import seaborn as sns
-from sklearn.metrics import confusion_matrix, classification_report
-from sklearn.ensemble import RandomForestClassifier
+
 https://colab.research.google.com/drive/1Rh1vBumcrbGfLMLTON-DR680WV3uB8Z-#scrollTo=iq6hJ5I90BfW&line=1&uniqifier=1
