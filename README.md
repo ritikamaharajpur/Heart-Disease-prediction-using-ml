@@ -16,3 +16,4 @@ The model's performance will be evaluated using metrics like accuracy,
 precision, recall, and F1-score to ensure reliable predictions. By providing an 
 early warning system, this project aims to reduce the risk of severe heart 
 complications and promote proactive healthcare management.
+<img width="466" height="293" alt="image" src="https://github.com/user-attachments/assets/fe083239-7851-4e12-bf18-27b3c366b2b4" />
