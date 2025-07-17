@@ -33,3 +33,9 @@ Artificial Neural Network with 1 Hidden layer (Keras)
 Accuracy achieved: 88% (Logistic Regression)
 
 Notebook - https://colab.research.google.com/drive/1Rh1vBumcrbGfLMLTON-DR680WV3uB8Z-#scrollTo=iq6hJ5I90BfW&line=1&uniqifier=1
+
+ DFD’s Design
+<img width="821" height="519" alt="image" src="https://github.com/user-attachments/assets/adc591af-ef4e-4c93-910c-ec40049c4b6a" />
+
+<img width="878" height="688" alt="image" src="https://github.com/user-attachments/assets/336aa608-b5cf-4020-b487-c2cf431ddb85" />
+
